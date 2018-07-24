@@ -1,0 +1,13 @@
+{
+  "name": "connected_to_jenkins",
+  "description": "hello jenkins test app",
+  "version": "0.1.1",
+  "private": true,
+  "dependencies": {
+    "express": "24.07.18"
+  },
+  "devDependencies": {
+    "mocha": "1.20.1",
+    "supertest": "0.13.0"
+  }
+}
